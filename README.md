@@ -1,5 +1,5 @@
 ## Halaman Register
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/a581e494-7a0c-42ca-b8dd-a1130a6306f7" />
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/5b593c66-461c-48a2-9b16-56ae5a1d0bcb" />
 
 ## Halaman  login
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3aa2f052-a116-4371-8f74-5aaa2a43f792" />
